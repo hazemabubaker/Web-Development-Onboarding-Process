@@ -161,8 +161,10 @@ In this course, we will learn the basic tools that every web page coder needs to
 * Introduction to Javascript
 * Using Javascript to Build Web Applications
 
-[HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-ncoDPkvr1xGDAk.5UMIfjw&siteID=vedj0cWlu2Y-ncoDPkvr1xGDAk.5UMIfjw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
-
 ```
 You must practise all parts in this course, just reading and watching the tutorial videos without hands-on training will result in poor training outcome.
 ```
+
+
+[HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-ncoDPkvr1xGDAk.5UMIfjw&siteID=vedj0cWlu2Y-ncoDPkvr1xGDAk.5UMIfjw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
+
