@@ -131,7 +131,7 @@ Team Foundation Server (commonly abbreviated to TFS) is a Microsoft product that
 ### Learn How to Build a Professional Website | Udemy, Jordan Hudgens
 
 
-![](img/html5&css3.jpg)
+![](img/html5&css3.png)
 
 Learn how to build professional websites with HTML5, CSS3, and JavaScript. Throughout the video you'll learn skills such as:
 * HTML5
