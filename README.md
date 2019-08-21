@@ -1,4 +1,4 @@
-# Web-Development-Onboarding-Process
+# Web Development Onboarding Process
 Our goal is to provide a mechanism through which you can acquire the necessary knowledge and skills to become effective Web Developer..
 
 Recent stats from clickboarding.com show that 69 percent of new hires are likely to stay with the company for three years if they have a positive onboarding experience.
@@ -125,3 +125,44 @@ Team Foundation Server (commonly abbreviated to TFS) is a Microsoft product that
 > Software often comes bundled in packages, which makes managing the programs installed on your system a bit easier. When you need to add software to your Linux system, there are several paths you can take: you can compile source code, manually install software packages, or use package management software to automate most of the work. In this course, explore the basics of working with packages at the command line. Learn how to manage packages on RedHat and CentOS with RPM and the YUM package manager, as well as how to manage packages on Debian, Ubuntu, and related distros with dpkg and the APT tool. Plus, discover how to add software from third parties to your installation when official repositories don't have all of the software you need.
 
 [What is package management?](https://www.linkedin.com/learning/linux-package-managers-and-repositories/what-is-package-management)
+
+## Learn To Code HTML5 & CSS3
+
+### Learn How to Build a Professional Website | Udemy, Jordan Hudgens
+
+
+![](img/html5&css3.jpg)
+
+Learn how to build professional websites with HTML5, CSS3, and JavaScript. Throughout the video you'll learn skills such as:
+* HTML5
+* CSS3
+* JavaScript
+* Flexbox
+* CSS Grid
+* Animations
+* Navigation
+* Fonts
+* Images
+
+```
+You are required to practice the above tutorial and create the same static website using HTML5, CSS3, and JavaScript. Ensure to follow the tutorial steps in order to get the same result with the same quality.
+```
+[HTML5 & CSS Development](https://www.youtube.com/watch?v=5bMdjkfvONE)
+
+### HTML, CSS, and Javascript for Web Developers <sup>[Johns Hopkins University](https://www.jhu.edu/)</sup>
+
+In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer.
+
+**Syllabus** - What you will learn from this course:
+
+* Introduction to HTML5
+* Introduction to CSS3
+* Coding the Static Restaurant Site
+* Introduction to Javascript
+* Using Javascript to Build Web Applications
+
+[HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-ncoDPkvr1xGDAk.5UMIfjw&siteID=vedj0cWlu2Y-ncoDPkvr1xGDAk.5UMIfjw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
+
+```
+You must practise all parts in this course, just reading and watching the tutorial videos without hands-on training will result in poor training outcome.
+```
