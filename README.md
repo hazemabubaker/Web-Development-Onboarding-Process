@@ -168,3 +168,24 @@ You must practise all parts in this course, just reading and watching the tutori
 
 [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-ncoDPkvr1xGDAk.5UMIfjw&siteID=vedj0cWlu2Y-ncoDPkvr1xGDAk.5UMIfjw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
 
+## Learn The Basics Of JavaScript
+
+![](img/javascript.png)
+
+### JavaScript Algorithms And Data Structures Certification
+
+JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops.
+
+
+* Basic JavaScript
+* ES6
+* Regular Expressions
+* Debugging
+* Basic Data Structures
+* Basic Algorithm Scripting
+* Object Oriented Programming
+* Functional Programming
+* Intermediate Algorithm Scripting
+* JavaScript Algorithms and Data Structures Projects
+
+[JavaScript Algorithms And Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
